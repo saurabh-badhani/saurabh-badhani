@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Currently pursuing **BCA** from **DSB Campus, Nainital** (Graduating 2026)
+- 🎓 Currently pursuing **BCA** from **DSB Campus,Kumaon University, Nainital** (Graduating 2026)
 - 👨‍💻 Interested in **Data Analysis**, **Visualization**, and **Python**
 - 🛠️ Tools & Skills: Python, Pandas, Power BI, Tableau, Excel, Git, VS Code, HTML, C, C++
 
